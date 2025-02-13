@@ -1,81 +1,90 @@
-# Flask_Learning_Journey
+# Flask Learning Journey
 
-Flask Learning Roadmap (2 Weeks)
-📅 Duration: March 1 - March 14
+## Flask Learning Roadmap (2 Weeks)  
+📅 **Duration:** March 1 - March 14  
 
-Week 1: Flask Fundamentals
-📅 March 1 - March 7
+---
 
-✅ Day 1: Setup & Basics
+## Week 1: Flask Fundamentals  
+📅 **March 1 - March 7**  
 
-Install Flask: pip install flask
-First Flask App (app.py)
-Running Flask Server (flask run)
-Debug Mode
-✅ Day 2: Routes & Templates
+### ✅ Day 1: Setup & Basics
+- Install Flask: `pip install flask`
+- Create Your First Flask App (`app.py`)
+- Running the Flask Server (`flask run`)
+- Enabling Debug Mode
 
-URL Routing (@app.route())
-HTML Templating (Jinja2)
-Static Files (CSS, JS)
-Request & Response Handling
-✅ Day 3: Forms & User Input
+### ✅ Day 2: Routes & Templates
+- URL Routing (`@app.route()`)
+- HTML Templating with Jinja2
+- Serving Static Files (CSS, JS)
+- Handling Requests & Responses
 
-Handling GET & POST requests
-request.form, request.args
-Validating User Input
-Redirecting & Flash Messages
-✅ Day 4: Flask with Databases (SQLite/MongoDB)
+### ✅ Day 3: Forms & User Input
+- Handling `GET` & `POST` Requests
+- Using `request.form` and `request.args`
+- Validating User Input
+- Redirecting & Flash Messages
 
-Connecting Flask to MongoDB (Flask-PyMongo)
-CRUD Operations (Create, Read, Update, Delete)
-Storing User Data
-✅ Day 5: Flask REST APIs (JSON-based API)
+### ✅ Day 4: Flask with Databases (SQLite/MongoDB)
+- Connecting Flask to MongoDB (`Flask-PyMongo`)
+- Performing CRUD Operations (Create, Read, Update, Delete)
+- Storing and Managing User Data
 
-Building RESTful API
-Flask-RESTful & Flask-SQLAlchemy
-Using Postman for API Testing
-✅ Day 6: Authentication (JWT & Sessions)
+### ✅ Day 5: Flask REST APIs (JSON-based API)
+- Building a RESTful API
+- Using `Flask-RESTful` & `Flask-SQLAlchemy`
+- Testing APIs with Postman
 
-User Login & Logout
-Password Hashing (Flask-Bcrypt)
-JWT Authentication (PyJWT)
-✅ Day 7: Flask Deployment (Docker & Cloud)
+### ✅ Day 6: Authentication (JWT & Sessions)
+- Implementing User Login & Logout
+- Password Hashing with `Flask-Bcrypt`
+- JWT Authentication using `PyJWT`
 
-Deploy on Render, Heroku, or Azure
-Containerizing with Docker
-Week 2: Advanced Flask Concepts
-📅 March 8 - March 14
+### ✅ Day 7: Flask Deployment (Docker & Cloud)
+- Deploying on Render, Heroku, or Azure
+- Containerizing with Docker
 
-✅ Day 8: Middleware & Background Tasks
+---
 
-Creating Custom Middleware
-Logging Requests
-Running Background Jobs (Celery)
-✅ Day 9: Flask Blueprints (Modular Apps)
+## Week 2: Advanced Flask Concepts  
+📅 **March 8 - March 14**  
 
-Organizing a large Flask project
-Using Blueprints for different modules
-✅ Day 10: File Uploads & Handling Large Data
+### ✅ Day 8: Middleware & Background Tasks
+- Creating Custom Middleware
+- Logging Requests
+- Running Background Jobs with Celery
 
-Uploading Images & PDFs
-Streaming large files
-✅ Day 11: WebSockets (Real-time Communication)
+### ✅ Day 9: Flask Blueprints (Modular Apps)
+- Organizing Large Flask Projects
+- Using Blueprints for Different Modules
 
-Building Real-time Chat App with Flask-SocketIO
-✅ Day 12: Performance Optimization & Caching
+### ✅ Day 10: File Uploads & Handling Large Data
+- Uploading Images & PDFs
+- Streaming Large Files Efficiently
 
-Using Redis for Caching
-Query Optimization & Indexing
-✅ Day 13: Flask with React.js (API Integration)
+### ✅ Day 11: WebSockets (Real-time Communication)
+- Building a Real-time Chat App with `Flask-SocketIO`
 
-Creating a React Frontend
-Connecting React with Flask API
-✅ Day 14: Final Project - Mini Backend System
+### ✅ Day 12: Performance Optimization & Caching
+- Using Redis for Caching
+- Query Optimization & Indexing
 
-Project Idea: A Flask API for User Authentication & Data Management
-Tech: Flask + MongoDB + JWT + Docker
-Deploy it on Azure or Render
-What Next?
-Want a project idea for Flask? (E.g., a Notes App, Weather API, AI Chatbot API)
-Need resources (docs, courses, GitHub projects)?
-Want hands-on coding challenges?
+### ✅ Day 13: Flask with React.js (API Integration)
+- Creating a React Frontend
+- Connecting React with Flask API
+
+### ✅ Day 14: Final Project - Mini Backend System
+- **Project Idea:** Flask API for User Authentication & Data Management
+- **Tech Stack:** Flask + MongoDB + JWT + Docker
+- **Deployment:** Deploy on Azure or Render
+
+---
+
+## What’s Next?
+- Looking for **Flask project ideas**? (e.g., Notes App, Weather API, AI Chatbot API)
+- Need **resources**? (Docs, courses, GitHub projects)
+- Want **hands-on coding challenges**?
+
+🚀 Keep Learning & Building! 🎯
+
