@@ -86,5 +86,5 @@
 - Need **resources**? (Docs, courses, GitHub projects)
 - Want **hands-on coding challenges**?
 
-🚀 Keep Learning & Building! 🎯
+🎯
 
